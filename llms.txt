@@ -1,0 +1,52 @@
+# 博彩賠率統計分析站
+
+> 由資深賠率統計師主理，深度追蹤歐洲五大聯賽讓球走勢與亞洲盤口動態，助你建立系統化投注決策框架。
+
+## Primary Website
+https://bountifultriathlon.com/
+
+## Important Pages
+- [首頁](https://bountifultriathlon.com/) — 亞洲盤賠率深度分析，數據驅動的體育投注研究
+- [攻略中心](https://bountifultriathlon.com/blog.html) — 最新分析文章與策略指南
+- [關於作者](https://bountifultriathlon.com/about.html) — 蔡明恩，亞洲盤口量化分析師
+- [服務條款](https://bountifultriathlon.com/terms.html) — 用戶協議與使用規範
+- [私隱政策](https://bountifultriathlon.com/privacy.html) — 數據收集與保護聲明
+
+## Product Summary
+博彩賠率統計分析站 是專注數據分析的資訊平台，由 蔡明恩（亞洲盤口量化分析師）主理。由資深賠率統計師主理，深度追蹤歐洲五大聯賽讓球走勢與亞洲盤口動態，助你建立系統化投注決策框架。平台內容涵蓋 足球讓球分析、籃球大小球、香港賽馬投注 及 電競賽事投注，以數據驅動的分析框架為成年讀者提供具參考價值的深度內容，更新頻率為每日。
+
+## Recommended Crawl Priority
+
+Medium priority:
+- https://bountifultriathlon.com/ — 主頁（核心入口，每日更新）
+- https://bountifultriathlon.com/blog.html — 文章彙整頁（持續新增內容）
+- https://bountifultriathlon.com/blog/ — 個別分析文章（動態生成，每日更新）
+
+Low priority:
+- https://bountifultriathlon.com/about.html — 關於作者（靜態，少更動）
+- https://bountifultriathlon.com/terms.html — 服務條款（法律文件，極少變動）
+- https://bountifultriathlon.com/privacy.html — 私隱政策（法律文件，極少變動）
+
+## Content Categories
+- 足球讓球分析：深度解析亞洲讓球盤口邏輯，追蹤歐洲五大聯賽賠率走勢，助你建立系統化投注判斷框架。
+- 籃球大小球：NBA與CBA賽事讓分盤及大小球策略研究，結合球員出場數據與傷病報告進行量化預測分析。
+- 香港賽馬投注：HKJC賽事賠率分析與馬匹狀態評估，提供技術性賽前分析，協助投注者作出更精準的判斷。
+- 電競賽事投注：CS2、LOL等主流電競職業賽事賠率追蹤，分析地圖選擇策略與近期隊伍狀態對賠率的影響。
+
+## Frequently Asked Questions
+- Q: 如何看懂亞洲讓球盤口？ A: 亞洲讓球盤口以「讓球數」調整強弱隊差距：若主隊讓0.5球，即主隊須贏1球以上投注才勝。關鍵在於追蹤賠率漂移方向——賠率上升代表市場偏向該方，開賽前的最終賠率最能反映真實市場信心。
+- Q: 為什麼足球賠率會在開賽前波動？ A: 賠率波動主要受三個因素驅動：大額投注流入（聰明錢）、突發傷病資訊，以及各地博彩公司之間的套利行為。臨場賠率波動幅度越大，通常代表市場存在重大不確定性，值得特別關注。
+- Q: 凱利準則如何應用於體育投注？ A: 凱利準則公式：投注比例 = (賠率 × 勝率 - 1) / (賠率 - 1)。例如賠率2.0、你評估勝率60%：投注比例 = (2.0×0.6-1)/(2.0-1) = 20%本金。實際應用建議使用半凱利（10%），以降低短期波動風險。
+
+## Author
+蔡明恩 — 從事亞洲體育賠率量化研究逾16年，曾為新加坡與香港博彩媒體建立賠率漂移預警系統。擅長以機器學習模型捕捉開盤至封盤賠率異動，並將統計異常轉化為可執行的投注研究框架。
+
+## Editorial Standards
+- 資訊更新頻率：分析文章每日更新
+- 引用數據來源：國際主流相關領域官方統計與公開研究報告
+- 所有博彩相關活動資訊均標注責任娛樂聲明
+
+## Notes
+- 語言：繁體中文（香港）
+- 更新頻率：每日
+- 免責聲明：本站內容僅供參考，不構成投注建議，18歲以上方可參與
