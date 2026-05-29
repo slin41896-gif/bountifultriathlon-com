@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "pre-match-handicap-trend-analysis",
+      "title": "賽前讓球走勢分析方法：數據模型與市場變動的系統性研究",
+      "category": "undefined",
+      "date": "2026-05-29",
+      "excerpt": "每次落注前都心大心細？我哋作為資深玩家，深明讓球走勢變幻莫測，但只要掌握方法，贏面即刻大好多！",
+      "imageUrl": "https://pixabay.com/get/gf2334a9fb3ad8d945ebc556e15729cf3be4a05149b055f9f37a4ecd8498d8d19de3c20f90257f6a971a41d52bf1a68f41b41578e208c1f9278c61630d96e4487_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
