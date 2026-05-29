@@ -1,1 +1,12 @@
-{"articles":[]}
+{
+  "articles": [
+    {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-29",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/g52a249adf6798a38b864ca9dcfbabc127aa8797fda2cbec8d4a6c95845317ea40b3c500495469b38172c9606dfcbdc649e796e909815dda849b373b12ae0291f_640.jpg"
+    }
+  ]
+}
