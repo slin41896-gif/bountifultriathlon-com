@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2-esports-betting-team-analysis-guide",
+      "title": "CS2電競投注隊伍分析方法：數據指標與賽事表現評估指南",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "我記得有次CS2大賽，我靠住深入分析隊伍數據，成功捉到冷門，贏咗筆可觀獎金，嗰種滿足感真係無得頂！",
+      "imageUrl": "https://pixabay.com/get/g56cab7169478bdae507a70b2fe7f026a390f8235572e9599bb754eb87b2ef8bece36686170c89d5eacfec699ce25e37e_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "講起NBA投注，讓分盤真係又愛又恨！我哋一齊揭開佢嘅神秘面紗，睇下點樣將風險變機會！",
       "imageUrl": "https://pixabay.com/get/g0233deea6771f162cf5d08e30e3ed7a833b00bb904d9ae5cd1c8e4b96c1d908a84b89d6aeb59696c0817bf39858fa3641eb9c5915ba6e5e4c73fd75b840d9867_640.jpg"
-    },
-    {
-      "slug": "basketball-over-under-betting-guide",
-      "title": "籃球大小球投注完整攻略：規則解析、賠率計算與策略研究",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "今次我哋一於深入探討籃球大小球，教你點樣由零開始，掌握呢個看似簡單實則大有學問嘅投注玩法，提升勝算！",
-      "imageUrl": "https://pixabay.com/get/g91ff4b0025d526ea7fda1cf696a17849d4e6d2e5ddbf39daa84991a4b1f75642d78df0bc7b48ef1551fe0f73fb068382176236ad0df66d4544c9e8df4cb00049_640.png"
     }
   ]
 }
