@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-stop-loss-strategy",
+      "title": "體育投注停損點設定策略：資金管理與風險控制的實證研究分析",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "每次落注都心驚驚？我哋賭波最怕輸突，學識止蝕真係好重要，保障自己荷包，安心享受投注樂趣！",
+      "imageUrl": "https://pixabay.com/get/g2b22a12a76a8521a3909e59cda7edf5e0c098192b73ff07e10ae9bd325e3dc6d2360e4cb5bdf957942a962b09675468896a05b5f433ce64c4ed95d37ce92a5e2_640.jpg"
+    },
+    {
       "slug": "kelly-criterion-sports-betting-strategy",
       "title": "凱利公式於體育投注中的應用原理與資金管理實證研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "我記得有次CS2大賽，我靠住深入分析隊伍數據，成功捉到冷門，贏咗筆可觀獎金，嗰種滿足感真係無得頂！",
       "imageUrl": "https://pixabay.com/get/g56cab7169478bdae507a70b2fe7f026a390f8235572e9599bb754eb87b2ef8bece36686170c89d5eacfec699ce25e37e_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-31",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g17bde83dae063f00c10f9a503c17a4e24b7b079a9746271011cd71144b2daf1880519ccee5bdaf6f2a82c94bf69a494eda5de82d7305ab49ee95078a9b66cacb_640.jpg"
     }
   ]
 }
