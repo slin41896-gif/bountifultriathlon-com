@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "tennis-betting-odds-analysis",
+      "title": "網球盤口分析方法：從賠率結構解讀市場預期與投注價值",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "每次網球大賽，我都想搵到隱藏嘅價值盤。到底點樣透過賠率，睇穿莊家同大戶嘅心態呢？",
+      "imageUrl": "https://pixabay.com/get/g3b428b25e09393047e3d5e2a62f52e64abc7d4a3562135bd4a2aad5ff1b76e3dcdfcd0266c2768df196f31556c2bb6d9373c63b3d72e8b002e916bd5aa9a27af_640.jpg"
+    },
+    {
       "slug": "sports-betting-beginners-first-sport",
       "title": "體育投注入門指南：新手應優先選擇哪項運動作為首個投注標的",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-06-01",
       "excerpt": "每次落注都心驚驚？我哋賭波最怕輸突，學識止蝕真係好重要，保障自己荷包，安心享受投注樂趣！",
       "imageUrl": "https://pixabay.com/get/g2b22a12a76a8521a3909e59cda7edf5e0c098192b73ff07e10ae9bd325e3dc6d2360e4cb5bdf957942a962b09675468896a05b5f433ce64c4ed95d37ce92a5e2_640.jpg"
-    },
-    {
-      "slug": "kelly-criterion-sports-betting-strategy",
-      "title": "凱利公式於體育投注中的應用原理與資金管理實證研究",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "講到賭波，好多人以為齋靠運氣，但其實背後有科學！我哋今次就揭開凱利公式嘅神秘面紗，睇下佢點樣幫我哋管理資金，贏得更穩陣。",
-      "imageUrl": "https://pixabay.com/get/g1c8cfac2420db57ec98b6938dbe297dd9852c3821fa97691b2dd4b0c87052b147e1e8cb396d046d8b642f37e02590c15544cf9cfc5d7c2d5cd6037ab6f9b03b3_640.jpg"
     }
   ]
 }
