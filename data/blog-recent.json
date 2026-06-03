@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "slug": "tennis-betting-odds-analysis",
-      "title": "網球盤口分析方法：從賠率結構解讀市場預期與投注價值",
-      "category": "undefined",
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-03",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gb12d7b7117b94f1ca0fa9cdf30726dd860a8cf973b1cb4801ca5944c710bd3bdf96c767403801efecc954a11ffe730ef_640.jpg"
+    },
+    {
+      "slug": "hong-kong-asian-handicap-preference-analysis",
+      "title": "香港投注者偏好亞洲盤之行為動因與市場結構分析",
+      "category": "投注策略",
+      "date": "2026-06-03",
+      "excerpt": "我哋香港賭仔，講起波膽，好多時第一個諗起嘅就係亞洲盤。究竟點解我哋會咁偏愛佢？背後有咩原因？",
+      "imageUrl": "https://pixabay.com/get/g0cb4d6b81482710eeb4fe52c34d32eb47b2bb2e10ad0bb184356b801c15646def20378da814773f14a84c5a97caa5ed9159f1b58a595ae8b2c29195ed58a7b2c_640.jpg"
+    },
+    {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
       "date": "2026-06-02",
-      "excerpt": "每次網球大賽，我都想搵到隱藏嘅價值盤。到底點樣透過賠率，睇穿莊家同大戶嘅心態呢？",
-      "imageUrl": "https://pixabay.com/get/g3b428b25e09393047e3d5e2a62f52e64abc7d4a3562135bd4a2aad5ff1b76e3dcdfcd0266c2768df196f31556c2bb6d9373c63b3d72e8b002e916bd5aa9a27af_640.jpg"
-    },
-    {
-      "slug": "sports-betting-beginners-first-sport",
-      "title": "體育投注入門指南：新手應優先選擇哪項運動作為首個投注標的",
-      "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "喂！好多新仔想玩體育投注，但一望咁多運動就頭痕，唔知由邊度開始好？其實揀啱第一步好重要㗎！",
-      "imageUrl": "https://pixabay.com/get/gb6573890086b1b64776855f12b2ddd9fa6ae0990d6ccfe01e3b67b1dda78b2bdd78eb4f2b4bc4818bce9a6b02c01aec745ab0f6ce498472310d0570f1b60c72b_640.jpg"
-    },
-    {
-      "slug": "sports-betting-stop-loss-strategy",
-      "title": "體育投注停損點設定策略：資金管理與風險控制的實證研究分析",
-      "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "每次落注都心驚驚？我哋賭波最怕輸突，學識止蝕真係好重要，保障自己荷包，安心享受投注樂趣！",
-      "imageUrl": "https://pixabay.com/get/g2b22a12a76a8521a3909e59cda7edf5e0c098192b73ff07e10ae9bd325e3dc6d2360e4cb5bdf957942a962b09675468896a05b5f433ce64c4ed95d37ce92a5e2_640.jpg"
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/g2f759d80029eb7a7491c5399d42f21a47b80c4722731b9e7945840b1ae8cb28f184bcb10cd8bbb8d485e3a2872154ee5_640.jpg"
     }
   ]
 }

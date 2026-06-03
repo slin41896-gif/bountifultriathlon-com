@@ -149,8 +149,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "player injury news betting strategy adjust",
-      "status": "available",
-      "writing_style": "實戰技巧，含案例分析，1200字"
+      "status": "used",
+      "writing_style": "實戰技巧，含案例分析，1200字",
+      "slug": "article",
+      "used_date": "2026-06-02"
     },
     {
       "id": 15,
@@ -158,8 +160,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "hong kong asian handicap betting culture",
-      "status": "available",
-      "writing_style": "文化+數據分析，1100字"
+      "status": "used",
+      "writing_style": "文化+數據分析，1100字",
+      "slug": "hong-kong-asian-handicap-preference-analysis",
+      "used_date": "2026-06-03"
     },
     {
       "id": 16,
@@ -167,8 +171,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "home away advantage football statistics",
-      "status": "available",
-      "writing_style": "統計分析，含主客場勝率數據，1200字"
+      "status": "used",
+      "writing_style": "統計分析，含主客場勝率數據，1200字",
+      "slug": "article",
+      "used_date": "2026-06-03"
     },
     {
       "id": 17,
